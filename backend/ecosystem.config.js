@@ -7,7 +7,7 @@ const {
 module.exports = {
   apps : [{
     name   : "mestox",
-    script : "dist/app.js"
+    script : "./dist/app.js"
   }],
   deploy: {
     production: {
